@@ -1,0 +1,14 @@
+Doctor ID: 1
+Doctor Name: Dr. Smith
+Max Patients Per Day: 3
+
+Doctor ID: 2
+Doctor Name: Dr. Johnson
+Max Patients Per Day: 4
+
+Appointment booked successfully!
+
+Appointment ID: 1
+Doctor: Dr. Smith
+Date: 2023-10-01
+Time: 18:00
